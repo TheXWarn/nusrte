@@ -1,16 +1,18 @@
-### Hi there 👋
+## [Hello, and welcome to my GitHub account.](https://github.com/nusrte) ✨ 
 
-<!--
-**nusrte/nusrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|Questions about me.|Answers.|
+|---|---|
+|What is my name?|Nüsrət. ✨|
+|How old am I?|I am 16.|
+|Where I live? |Bilasuvar 🔖|
+|Do I go to school?|Yes.|
+|What do I do?|I'm learning Python. 🐍|
+|Am I learning another programming language?|Not yet.|
+|What do I want to be?|Programmer.|
+|What coder programs do I use?|VS Code.|
 
-Here are some ideas to get you started:
+```
+I learn Python and try to help those who don't know.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *My favorite project:* <code>[N Σ O N](https://github.com/TheOksigen/neon_userbot)</code>
