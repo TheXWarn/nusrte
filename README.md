@@ -14,5 +14,14 @@
 ```
 I learn Python and try to help those who don't know.
 ```
+<!--
+<code>[N Σ O N](https://github.com/TheOksigen/neon_userbot)</code>
 
-## *My favorite project:* <code>[N Σ O N](https://github.com/TheOksigen/neon_userbot)</code>
+
+## *On social networks;* 
+
+### *My accounts:*
+
+[<img align="center" alt="codeSTACKr | Telegram" width="37px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />](https://telegram.me/nusrets)
+[<a href="https://iconscout.com/icons/instagram" target="_blank">Instagram Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">Iconscout</a>](ht)
+-->
