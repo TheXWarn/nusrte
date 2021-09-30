@@ -4,7 +4,7 @@
 |---|---|
 |What is my name?|Nüsrət. ✨|
 |How old am I?|I am 16.|
-|Where I live? |Bilasuvar 🔖|
+|Where I live? |Azerbaijan, Bilasuvar 🔖|
 |Do I go to school?|Yes.|
 |What do I do?|I'm learning Python. 🐍|
 |Am I learning another programming language?|Not yet.|
