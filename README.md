@@ -1,8 +1,11 @@
+<!--
 ## [<img align="left" alt="codeSTACKr | Telegram" width="70" src="https://github.com/nusrte/nusrte/blob/main/github%20(1).png" />](https://t.me/nusrte) [Hello, and welcome to my GitHub account.](https://github.com/nusrte) ✨ 
 ***
 
 [<img align="left" alt="codeSTACKr | Telegram" width="300" src="https://avatars.githubusercontent.com/u/89344065?s=400&u=ef2da59cc7755252b01e8a6c7d39a20e1e20b81f&v=4" />](https://t.me/nusrets)
-<!--
+-->
+
+```
 ####          ##      #########        #######         ####          ##
 #####         ##      ##             ##        ##      #####         ##
 ##   ##       ##      ##            ##          ##     ##   ##       ##
@@ -10,7 +13,9 @@
 ##      ##    ##      ##            ##          ##     ##      ##    ##
 ##        ######      ##             ##        ##      ##        ######
 ##         #####      #########         ######         ##         #####
--->
+```
+
+<!--
 </div>
 <div align="right">
         <h4>
@@ -40,7 +45,7 @@ I learn Python and try to help those who don't know.
 
 ***
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusrte&show_icons=false&hide_border=true)](https://t.me/nusrte)
-
+-->
 <!--
 <code>[N Σ O N](https://github.com/TheOksigen/neon_userbot)</code>
 
